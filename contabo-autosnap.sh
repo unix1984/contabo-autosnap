@@ -1,6 +1,7 @@
 #!/bin/bash
 #set -x
 
+# API data must be filled ( https://api.contabo.com/ )
 CLIENT_ID=
 CLIENT_SECRET=
 API_USER=
