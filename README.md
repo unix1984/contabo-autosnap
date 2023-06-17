@@ -1,5 +1,5 @@
 # contabo-autosnap
-Simple bash script to snapshot your Contabo VPS using Contabo API from cron in VM.
+Simple bash script (**contabo-autosnap.sh**) to snapshot your Contabo VPS using Contabo API from cron in VM.
 The script delete the oldest snapshot and create a new snapshot (daily=2).
 <br/>
 <br/>
