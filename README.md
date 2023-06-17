@@ -11,6 +11,7 @@ The script delete the oldest snapshot and create a new snapshot (daily=2).
 <br/>
 <br/>
 **cron:**
+
 ```5  0  * * *     root   /usr/local/sbin/contabo-autosnap.sh```
 <br/>
 <br/>
