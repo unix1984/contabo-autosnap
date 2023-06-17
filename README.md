@@ -7,7 +7,7 @@ The script delete the oldest snapshot and create a new snapshot (daily=2).
 <br/>
 <br/>
 <br/>
-**Install:**
+**Install (as root):**
 
 ```wget -O /usr/local/sbin/contabo-autosnap.sh https://raw.githubusercontent.com/unix1984/contabo-autosnap/main/contabo-autosnap.sh && chmod +x /usr/local/sbin/contabo-autosnap.sh```
 <br/>
