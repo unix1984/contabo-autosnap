@@ -3,7 +3,7 @@ Simple bash script (**contabo-autosnap.sh**) to snapshot your Contabo VPS using 
 The script delete the oldest snapshot and create a new snapshot (daily=2).
 <br/>
 <br/>
-![alt text](https://raw.githubusercontent.com/unix1984/contabo-autosnap/main/contabo-autosnap.png)
+![alt text](https://raw.githubusercontent.com/unix1984/contabo-autosnap/main/contabo_api_script.png)
 <br/>
 <br/>
 <br/>
